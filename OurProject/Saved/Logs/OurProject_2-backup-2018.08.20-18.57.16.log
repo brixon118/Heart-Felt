@@ -1,0 +1,1081 @@
+﻿Log file open, 08/20/18 18:55:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: OurProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.428493
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.144s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD FX-8800P Radeon R7, 12 Compute Cores 4C+8G , GPU: AMD Radeon (TM) R9 360
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  /Game/GameStates/MainMenu/MainMenuMap -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.013s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.21-00.55.41:073][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.21-00.55.41:073][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.21-00.55.41:082][  0]LogHAL: Display: Platform has ~ 16 GB [17113329664 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.08.21-00.55.41:082][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.08.21-00.55.41:082][  0]LogInit: Going up to parent DeviceProfile []
+[2018.08.21-00.55.41:083][  0]LogInit: Computer: LINK
+[2018.08.21-00.55.41:083][  0]LogInit: User: brixo
+[2018.08.21-00.55.41:083][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.21-00.55.41:083][  0]LogInit: High frequency timer resolution =2.046942 MHz
+[2018.08.21-00.55.41:083][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.08.21-00.55.41:083][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.21-00.55.41:083][  0]LogMemory: Process Physical Memory: 131.56 MB used, 131.56 MB peak
+[2018.08.21-00.55.41:083][  0]LogMemory: Process Virtual Memory: 104.10 MB used, 104.10 MB peak
+[2018.08.21-00.55.41:084][  0]LogMemory: Physical Memory: 9776.21 MB used,  6544.33 MB free, 16320.54 MB total
+[2018.08.21-00.55.41:084][  0]LogMemory: Virtual Memory: 4746.23 MB used,  6544.33 MB free, 134217728.00 MB total
+[2018.08.21-00.55.41:175][  0]LogInit: Using OS detected language (en-US).
+[2018.08.21-00.55.41:176][  0]LogInit: Using OS detected locale (en-US).
+[2018.08.21-00.55.41:177][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.08.21-00.55.42:075][  0]LogStreaming: Display: Took  0.899s to InitEngineTextLocalization.
+[2018.08.21-00.55.42:193][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.21-00.55.42:193][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.21-00.55.42:229][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.21-00.55.42:229][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.21-00.55.42:307][  0]LogD3D11RHI:    0. 'AMD Radeon (TM) R9 360' (Feature Level 11_0)
+[2018.08.21-00.55.42:307][  0]LogD3D11RHI:       2025/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.08.21-00.55.42:317][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.21-00.55.42:318][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.21-00.55.42:318][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.21-00.55.42:340][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.21-00.55.42:341][  0]LogD3D11RHI:     GPU DeviceId: 0x665f (for the marketing name, search the web for "GPU Device Id")
+[2018.08.21-00.55.42:342][  0]LogWindows: EnumDisplayDevices:
+[2018.08.21-00.55.42:342][  0]LogWindows:    0. 'AMD Radeon (TM) R9 360' (P:1 D:1)
+[2018.08.21-00.55.42:342][  0]LogWindows:    1. 'AMD Radeon (TM) R9 360' (P:0 D:1)
+[2018.08.21-00.55.42:343][  0]LogWindows:    2. 'AMD Radeon (TM) R9 360' (P:0 D:0)
+[2018.08.21-00.55.42:344][  0]LogWindows:    3. 'AMD Radeon (TM) R9 360' (P:0 D:0)
+[2018.08.21-00.55.42:344][  0]LogWindows:    4. 'AMD Radeon (TM) R9 360' (P:0 D:0)
+[2018.08.21-00.55.42:345][  0]LogWindows:    5. 'AMD Radeon (TM) R9 360' (P:0 D:0)
+[2018.08.21-00.55.42:345][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2018.08.21-00.55.42:346][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) R9 360
+[2018.08.21-00.55.42:346][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.7 (internal:22.19.172.769, unified:22.19.172.769)
+[2018.08.21-00.55.42:346][  0]LogD3D11RHI:      Driver Date: 6-27-2017
+[2018.08.21-00.55.42:346][  0]LogRHI: Texture pool is 1417 MB (70% of 2025 MB)
+[2018.08.21-00.55.42:847][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.21-00.55.42:866][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.08.21-00.55.42:870][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Intermediate/Shaders/WorkingDirectory/14724/).
+[2018.08.21-00.55.42:871][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/brixo/AppData/Local/Temp/UnrealShaderWorkingDir/927F04694173146F4A7705A250587D0A/'.
+[2018.08.21-00.55.43:706][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.21-00.55.43:734][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.21-00.55.43:762][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.21-00.55.43:794][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.21-00.55.43:794][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.21-00.55.43:953][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.21-00.55.43:953][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.21-00.55.43:953][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.21-00.55.46:158][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.21-00.55.46:367][  0]LogDerivedDataCache: Loaded boot cache 0.21s 71MB C:/Users/brixo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.21-00.55.46:367][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/brixo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.08.21-00.55.46:368][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.21-00.55.46:368][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.21-00.55.46:368][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.21-00.55.46:368][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.21-00.55.46:389][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.21-00.55.46:404][  0]LogDerivedDataCache: Using Local data cache path C:/Users/brixo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.21-00.55.46:404][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.21-00.55.46:404][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.21-00.55.46:443][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.21-00.55.46:445][  0]LogSlate: Using FreeType 2.6.0
+[2018.08.21-00.55.46:447][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.21-00.55.46:559][  0]LogInit: Using OS detected language (en-US).
+[2018.08.21-00.55.46:559][  0]LogInit: Using OS detected locale (en-US).
+[2018.08.21-00.55.46:559][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2018.08.21-00.55.46:559][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2018.08.21-00.55.47:147][  0]LogStreaming: Display: Took  0.588s to InitGameTextLocalization.
+[2018.08.21-00.55.47:163][  0]LogAssetRegistry: FAssetRegistry took 0.0092 seconds to start up
+[2018.08.21-00.55.47:650][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.043243 seconds
+[2018.08.21-00.55.47:937][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.21-00.55.48:231][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.21-00.55.48:243][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.21-00.55.48:243][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.08.21-00.55.48:243][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.21-00.55.48:243][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.21-00.55.48:290][  0]LogNetVersion: OurProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3951183775)
+[2018.08.21-00.55.49:494][  0]LogMoviePlayer: Initializing movie player
+[2018.08.21-00.55.49:856][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.21-00.55.49:873][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.21-00.55.50:016][  0]SourceControl: Source control is disabled
+[2018.08.21-00.55.50:017][  0]SourceControl: Source control is disabled
+[2018.08.21-00.55.50:020][  0]SourceControl: Source control is disabled
+[2018.08.21-00.55.50:258][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.21-00.55.50:575][  0]LogOcInput: OculusInput pre-init called
+[2018.08.21-00.55.50:607][  0]LogUObjectArray: 42177 objects as part of root set at end of initial load.
+[2018.08.21-00.55.50:607][  0]LogUObjectAllocator: 7442616 out of 0 bytes used by permanent object pool.
+[2018.08.21-00.55.50:607][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.21-00.55.50:716][  0]LogEngine: Initializing Engine...
+[2018.08.21-00.55.50:718][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.21-00.55.50:733][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.21-00.55.50:733][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.21-00.55.50:734][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.21-00.55.50:734][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.21-00.55.51:165][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.08.21-00.55.51:214][  0]LogInit: XAudio2 using 'Headset Earphone (Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.21-00.55.51:259][  0]LogInit: FAudioDevice initialized.
+[2018.08.21-00.55.51:272][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.08.21-00.55.51:273][  0]LogInit: Texture streaming: Enabled
+[2018.08.21-00.55.51:960][  0]LogBlueprint: Error: [Compiler GameModeSuperClass] Can't connect pins  Item  and  ExitingController : Character Controller Super Class Object Reference (by ref) is not compatible with Controller Object Reference.
+[2018.08.21-00.55.51:960][  0]LogBlueprint: Error: [Compiler GameModeSuperClass] Can't connect pins  ExitingController  and  Item : Controller Object Reference is not compatible with Character Controller Super Class Object Reference (by ref).
+[2018.08.21-00.55.52:108][  0]LogBlueprint: Warning: [Compiler GameModeSuperClass] [0016.12] Compile of GameModeSuperClass failed. 2 Fatal Issue(s) 0 Warning(s) [in 259 ms] (/Game/GameStates/SuperClasses/GameModeSuperClass.GameModeSuperClass)
+[2018.08.21-00.55.52:250][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.21-00.55.52:250][  0]LogInit: Display: Game Engine Initialized.
+[2018.08.21-00.55.52:250][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.21-00.55.52:250][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.21-00.55.52:250][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.21-00.55.52:251][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.21-00.55.52:251][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.21-00.55.52:336][  0]LogInit: Display: Starting Game.
+[2018.08.21-00.55.52:337][  0]LogNet: Browse: /Game/GameStates/MainMenu/MainMenuMap?Name=Player
+[2018.08.21-00.55.52:337][  0]LogLoad: LoadMap: /Game/GameStates/MainMenu/MainMenuMap?Name=Player
+[2018.08.21-00.55.52:493][  0]LogAIModule: Creating AISystem for world MainMenuMap
+[2018.08.21-00.55.52:494][  0]LogLoad: Game class is 'MenuGameMode_C'
+[2018.08.21-00.55.52:496][  0]LogWorld: Bringing World /Game/GameStates/MainMenu/MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2018.08.20-18.55.52
+[2018.08.21-00.55.52:497][  0]LogWorld: Bringing up level for play took: 0.001417
+[2018.08.21-00.55.52:499][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.08.21-00.55.52:504][  0]LogLoad: Took 0.167063 seconds to LoadMap(/Game/GameStates/MainMenu/MainMenuMap)
+[2018.08.21-00.55.52:698][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2018.08.21-00.55.52:698][  0]LogLoad: (Engine Initialization) Total time: 16.71 seconds
+[2018.08.21-00.55.52:698][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.21-00.55.52:724][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.08.21-00.55.57:419][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.21-00.55.57:493][293]LogSlate: Took 0.000798 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.21-00.55.59:630][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.21-00.56.00:013][448]LogOnlineSession: Verbose: OSS: dumping NamedSession: 
+[2018.08.21-00.56.00:013][448]LogOnlineSession: Verbose: OSS: 	SessionName: GameSession
+[2018.08.21-00.56.00:013][448]LogOnlineSession: Verbose: OSS: 	HostingPlayerNum: 0
+[2018.08.21-00.56.00:013][448]LogOnlineSession: Verbose: OSS: 	SessionState: Pending
+[2018.08.21-00.56.00:013][448]LogOnlineSession: Verbose: OSS: 	RegisteredPlayers: 
+[2018.08.21-00.56.00:013][448]LogOnlineSession: Verbose: OSS: 	    0 registered players
+[2018.08.21-00.56.00:013][448]LogOnlineSession: Verbose: OSS: dumping Session: 
+[2018.08.21-00.56.00:014][448]LogOnlineSession: Verbose: OSS: 	OwningPlayerName: brixon_chan
+[2018.08.21-00.56.00:014][448]LogOnlineSession: Verbose: OSS: 	OwningPlayerId: brixon_chan [0x1100001071A721F]
+[2018.08.21-00.56.00:014][448]LogOnlineSession: Verbose: OSS: 	NumOpenPrivateConnections: 0
+[2018.08.21-00.56.00:014][448]LogOnlineSession: Verbose: OSS: 	NumOpenPublicConnections: 1
+[2018.08.21-00.56.00:014][448]LogOnlineSession: Verbose: OSS: 	SessionInfo: HostIP: INVALID SteamP2P: 76561198079439391:7777 Type: Lobby session SessionId: Lobby [0x186000001472D6B]
+[2018.08.21-00.56.00:014][448]LogOnlineSession: Verbose: OSS: dumping SessionSettings: 
+[2018.08.21-00.56.00:014][448]LogOnlineSession: Verbose: OSS: 	NumPublicConnections: 2
+[2018.08.21-00.56.00:014][448]LogOnlineSession: Verbose: OSS: 	NumPrivateConnections: 0
+[2018.08.21-00.56.00:014][448]LogOnlineSession: Verbose: OSS: 	bIsLanMatch: false
+[2018.08.21-00.56.00:014][448]LogOnlineSession: Verbose: OSS: 	bIsDedicated: false
+[2018.08.21-00.56.00:014][448]LogOnlineSession: Verbose: OSS: 	bUsesStats: false
+[2018.08.21-00.56.00:014][448]LogOnlineSession: Verbose: OSS: 	bShouldAdvertise: true
+[2018.08.21-00.56.00:014][448]LogOnlineSession: Verbose: OSS: 	bAllowJoinInProgress: true
+[2018.08.21-00.56.00:014][448]LogOnlineSession: Verbose: OSS: 	bAllowInvites: false
+[2018.08.21-00.56.00:014][448]LogOnlineSession: Verbose: OSS: 	bUsesPresence: true
+[2018.08.21-00.56.00:014][448]LogOnlineSession: Verbose: OSS: 	bAllowJoinViaPresence: true
+[2018.08.21-00.56.00:014][448]LogOnlineSession: Verbose: OSS: 	bAllowJoinViaPresenceFriendsOnly: false
+[2018.08.21-00.56.00:014][448]LogOnlineSession: Verbose: OSS: 	BuildUniqueId: 0x0040486f
+[2018.08.21-00.56.00:014][448]LogOnlineSession: Verbose: OSS: 	Settings:
+[2018.08.21-00.56.00:274][448]LogPackageName: SearchForPackageOnDisk took   0.259s to resolve LobbbyMap.umap.
+[2018.08.21-00.56.00:502][448]LogPackageName: SearchForPackageOnDisk took   0.226s to resolve LobbbyMap.umap.
+[2018.08.21-00.56.00:502][448]LogNet: Browse: /Game/GameStates/Lobby/LobbbyMap?listen
+[2018.08.21-00.56.00:502][448]LogLoad: LoadMap: /Game/GameStates/Lobby/LobbbyMap?listen
+[2018.08.21-00.56.00:824][448]LogLinker: Warning: Can't find file '/Game/Environment/Background/None'
+[2018.08.21-00.56.00:824][448]LoadErrors: Failed to load /Game/Environment/Background/None.Material_0 Referenced by Tunnel
+[2018.08.21-00.56.00:824][448]LogUObjectGlobals: Warning: Failed to load '/Game/Environment/Background/None': Can't find file '/Game/Environment/Background/None'
+[2018.08.21-00.56.00:824][448]LogLinker: Warning: Can't find file for asset '/Game/Environment/Background/None' while loading NULL.
+[2018.08.21-00.56.00:826][448]LoadErrors: Failed to load /Game/Environment/Background/None.Material_0 Referenced by Tunnel
+[2018.08.21-00.56.00:826][448]LogUObjectGlobals: Warning: Failed to load '/Game/Environment/Background/None': Can't find file for asset '/Game/Environment/Background/None' while loading NULL.
+[2018.08.21-00.56.00:826][448]LogLinker: Warning: Can't find file '/Game/Environment/Background/None'
+[2018.08.21-00.56.00:826][448]LoadErrors: Failed to load /Game/Environment/Background/None.Material_0 Referenced by Tunnel
+[2018.08.21-00.56.00:826][448]LogUObjectGlobals: Warning: Failed to load '/Game/Environment/Background/None': Can't find file '/Game/Environment/Background/None'
+[2018.08.21-00.56.00:826][448]LogLinker: Warning: Can't find file for asset '/Game/Environment/Background/None' while loading NULL.
+[2018.08.21-00.56.00:826][448]LoadErrors: Failed to load /Game/Environment/Background/None.Material_0 Referenced by Tunnel
+[2018.08.21-00.56.00:826][448]LogUObjectGlobals: Warning: Failed to load '/Game/Environment/Background/None': Can't find file for asset '/Game/Environment/Background/None' while loading NULL.
+[2018.08.21-00.56.00:923][448]LogAIModule: Creating AISystem for world LobbbyMap
+[2018.08.21-00.56.00:923][448]LogLoad: Game class is 'LobbyGameMode_C'
+[2018.08.21-00.56.00:928][448]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.08.21-00.56.00:928][448]LogTemp: Display: ParseSettings for SteamNetDriver_0
+[2018.08.21-00.56.00:928][448]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.08.21-00.56.00:929][448]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2018.08.21-00.56.00:929][448]LogNet: Display: SteamNetDriver_0 bound to port 7777
+[2018.08.21-00.56.00:929][448]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.08.21-00.56.00:929][448]LogNet: GameNetDriver SteamNetDriver_0 IpNetDriver listening on port 7777
+[2018.08.21-00.56.00:936][448]LogWorld: Bringing World /Game/GameStates/Lobby/LobbbyMap.LobbbyMap up for play (max tick rate 0) at 2018.08.20-18.56.00
+[2018.08.21-00.56.00:937][448]LogWorld: Bringing up level for play took: 0.006936
+[2018.08.21-00.56.00:948][448]LogLoad: Took 0.445927 seconds to LoadMap(/Game/GameStates/Lobby/LobbbyMap)
+[2018.08.21-00.56.00:949][448]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.00:979][449]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:011][450]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:041][451]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:065][452]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:087][453]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:109][454]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:134][455]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:155][456]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:177][457]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:199][458]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:221][459]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:244][460]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:265][461]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:286][462]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:303][463]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:318][464]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:335][465]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:351][466]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:367][467]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:383][468]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:400][469]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:416][470]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:432][471]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:448][472]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:464][473]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:480][474]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:496][475]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:513][476]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:528][477]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:545][478]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:561][479]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:577][480]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:593][481]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:609][482]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:625][483]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:642][484]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:658][485]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:674][486]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:690][487]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:706][488]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:723][489]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:738][490]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:755][491]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:770][492]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:787][493]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:803][494]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:819][495]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:835][496]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:851][497]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:868][498]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:883][499]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:899][500]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:916][501]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:932][502]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:948][503]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:964][504]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:980][505]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.01:996][506]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:013][507]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:029][508]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:046][509]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:061][510]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:077][511]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:094][512]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:110][513]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:126][514]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:142][515]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:159][516]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:175][517]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:191][518]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:207][519]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:223][520]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:239][521]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:255][522]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:271][523]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:288][524]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:304][525]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:320][526]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:336][527]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:353][528]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:368][529]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:385][530]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:400][531]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:417][532]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:434][533]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:449][534]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:465][535]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:483][536]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:498][537]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:515][538]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:531][539]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:547][540]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:564][541]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:580][542]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:595][543]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:611][544]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:628][545]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:645][546]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:662][547]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:676][548]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:694][549]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:708][550]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:725][551]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:740][552]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:757][553]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:773][554]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:789][555]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:805][556]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:821][557]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:837][558]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:854][559]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:870][560]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:887][561]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:902][562]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:918][563]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:934][564]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:950][565]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:966][566]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:983][567]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.02:998][568]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:015][569]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:031][570]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:047][571]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:064][572]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:079][573]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:095][574]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:112][575]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:128][576]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:145][577]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:161][578]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:177][579]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:195][580]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:210][581]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:226][582]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:242][583]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:258][584]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:274][585]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:290][586]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:306][587]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:322][588]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:338][589]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:355][590]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:370][591]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:387][592]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:404][593]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:419][594]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:435][595]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:451][596]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:467][597]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:484][598]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:499][599]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:516][600]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:533][601]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:548][602]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:564][603]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:580][604]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:596][605]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:613][606]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:628][607]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:645][608]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:661][609]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:678][610]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:694][611]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:710][612]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:726][613]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:742][614]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:758][615]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:775][616]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:790][617]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:807][618]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:823][619]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:839][620]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:855][621]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:872][622]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:887][623]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:904][624]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:920][625]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:936][626]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:953][627]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:968][628]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.03:985][629]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:001][630]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:017][631]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:034][632]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:048][633]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:065][634]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:081][635]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:097][636]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:114][637]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:130][638]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:146][639]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:162][640]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:178][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.21-00.56.04:179][641]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:194][642]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:210][643]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:226][644]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:242][645]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:258][646]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:274][647]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:291][648]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:307][649]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:323][650]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:339][651]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:355][652]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:371][653]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:387][654]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:403][655]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:419][656]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:435][657]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:452][658]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:469][659]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:484][660]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:500][661]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:517][662]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:534][663]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:549][664]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:565][665]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:581][666]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:597][667]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:614][668]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:630][669]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:647][670]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:664][671]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:679][672]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:696][673]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:714][674]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:728][675]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:744][676]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:759][677]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:775][678]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:793][679]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:808][680]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:824][681]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:840][682]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:856][683]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:873][684]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:889][685]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:905][686]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:921][687]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:937][688]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:954][689]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:969][690]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.04:985][691]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:001][692]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:017][693]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:035][694]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:050][695]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:065][696]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:082][697]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:098][698]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:115][699]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:130][700]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:147][701]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:163][702]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:179][703]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:195][704]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:212][705]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:227][706]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:244][707]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:260][708]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:276][709]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:293][710]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:310][711]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:325][712]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:340][713]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:357][714]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:374][715]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:389][716]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:405][717]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:421][718]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:437][719]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:454][720]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:470][721]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:486][722]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:503][723]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:518][724]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:534][725]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:551][726]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:566][727]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:584][728]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:599][729]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:615][730]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:631][731]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:648][732]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:664][733]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:681][734]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:695][735]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:711][736]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:727][737]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:744][738]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:760][739]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:776][740]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:792][741]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:808][742]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:824][743]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:841][744]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:856][745]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:874][746]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:890][747]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:906][748]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:922][749]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:938][750]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:955][751]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:970][752]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.05:986][753]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:004][754]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:019][755]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:035][756]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:052][757]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:067][758]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:085][759]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:099][760]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:115][761]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:132][762]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:148][763]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:164][764]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:180][765]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:196][766]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:214][767]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:229][768]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:245][769]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:261][770]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:277][771]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:294][772]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:309][773]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:325][774]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:342][775]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:357][776]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:374][777]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:391][778]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:407][779]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:422][780]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:439][781]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:454][782]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:472][783]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:487][784]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:504][785]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:519][786]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:536][787]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:551][788]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:568][789]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:584][790]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:600][791]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:616][792]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:633][793]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:649][794]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:665][795]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:681][796]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:697][797]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:714][798]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:729][799]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:745][800]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:761][801]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:777][802]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:794][803]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:809][804]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:827][805]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:841][806]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:858][807]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:874][808]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:890][809]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:906][810]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:924][811]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:939][812]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:955][813]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:971][814]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.06:987][815]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:004][816]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:020][817]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:035][818]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:051][819]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:067][820]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:084][821]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:100][822]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:116][823]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:134][824]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:149][825]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:165][826]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:182][827]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:197][828]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:214][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.21-00.56.07:216][829]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:229][830]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:246][831]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:262][832]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:278][833]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:294][834]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:310][835]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:326][836]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:342][837]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:358][838]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:374][839]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:390][840]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:406][841]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:423][842]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:438][843]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:455][844]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:472][845]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:487][846]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:504][847]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:520][848]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:536][849]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:553][850]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:568][851]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:584][852]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:600][853]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:616][854]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:633][855]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:650][856]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:666][857]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:682][858]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:698][859]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:715][860]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:730][861]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:747][862]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:762][863]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:779][864]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:794][865]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:811][866]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:826][867]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:844][868]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:859][869]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:875][870]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:891][871]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:907][872]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:924][873]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:940][874]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:956][875]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:973][876]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.07:989][877]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:005][878]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:020][879]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:038][880]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:054][881]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:069][882]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:087][883]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:105][884]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:119][885]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:134][886]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:150][887]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:167][888]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:184][889]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:199][890]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:216][891]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:232][892]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:249][893]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:264][894]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:281][895]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:297][896]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:314][897]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:329][898]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:346][899]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:361][900]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:378][901]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:394][902]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:410][903]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:426][904]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:443][905]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:458][906]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:474][907]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:490][908]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:507][909]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:523][910]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:540][911]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:555][912]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:571][913]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:589][914]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:604][915]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:620][916]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:636][917]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:653][918]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:669][919]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:685][920]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:700][921]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:717][922]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:733][923]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:749][924]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:765][925]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:783][926]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:799][927]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:815][928]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:832][929]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:849][930]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:864][931]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:880][932]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:896][933]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:913][934]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:928][935]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:944][936]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:961][937]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:977][938]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.08:994][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.21-00.56.09:256][939]LogPackageName: SearchForPackageOnDisk took   0.262s to resolve MultiplayerMap1.
+[2018.08.21-00.56.09:259][939]LogGameMode: ProcessServerTravel: /Game/GameStates/MultiplayerMatch/MultiplayerMap1
+[2018.08.21-00.56.09:260][939]LogWorld: SeamlessTravel to: /Game/GameStates/MultiplayerMatch/MultiplayerMap1
+[2018.08.21-00.56.09:263][939]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.09:348][940]LogStats:     SeamlessTravel FlushLevelStreaming  -  0.001 s
+[2018.08.21-00.56.09:349][940]LogAIModule: Creating AISystem for world Untitled
+[2018.08.21-00.56.09:349][940]LogWorld: Bringing World /Temp/Untitled_1.Untitled up for play (max tick rate 0) at 2018.08.20-18.56.09
+[2018.08.21-00.56.09:349][940]LogWorld: Bringing up level for play took: 0.000349
+[2018.08.21-00.56.09:350][940]LogWorld: Sending NotifyLoadedWorld for LP: LocalPlayer_0 PC: LobbyCharacterController_C_0
+[2018.08.21-00.56.09:350][940]LogNet: Verbose: NotifyLoadedWorld Begin
+[2018.08.21-00.56.09:350][940]LogNet: VeryVerbose: GetFunctionCallspace Server calling Server function: ServerNotifyLoadedWorld Local
+[2018.08.21-00.56.09:350][940]LogNet: Verbose: NotifyLoadedWorld End
+[2018.08.21-00.56.09:350][940]LogWorld: StartLoadingDestination to: /Game/GameStates/MultiplayerMatch/MultiplayerMap1
+[2018.08.21-00.56.09:366][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.21-00.56.09:623][940]LogPackageName: SearchForPackageOnDisk took   0.257s to resolve MultiplayerMap1.
+[2018.08.21-00.56.09:623][940]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.09:655][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.21-00.56.09:895][941]LogPackageName: SearchForPackageOnDisk took   0.240s to resolve MultiplayerMap1.
+[2018.08.21-00.56.09:895][941]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.09:931][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.21-00.56.10:170][942]LogPackageName: SearchForPackageOnDisk took   0.238s to resolve MultiplayerMap1.
+[2018.08.21-00.56.10:170][942]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.10:196][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.21-00.56.10:435][943]LogPackageName: SearchForPackageOnDisk took   0.238s to resolve MultiplayerMap1.
+[2018.08.21-00.56.10:436][943]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.10:455][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.21-00.56.10:685][944]LogPackageName: SearchForPackageOnDisk took   0.230s to resolve MultiplayerMap1.
+[2018.08.21-00.56.10:685][944]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.10:790][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.21-00.56.11:024][945]LogPackageName: SearchForPackageOnDisk took   0.232s to resolve MultiplayerMap1.
+[2018.08.21-00.56.11:025][945]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.11:048][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.21-00.56.11:276][946]LogPackageName: SearchForPackageOnDisk took   0.228s to resolve MultiplayerMap1.
+[2018.08.21-00.56.11:277][946]LogBlueprintUserMessages: [LobbyCharacterController_C_0] LobbyCharacterController
+[2018.08.21-00.56.11:340][947]LogAIModule: Creating AISystem for world MultiplayerMap1
+[2018.08.21-00.56.11:340][947]LogLoad: Game class is 'MultiplayerGameMode1_C'
+[2018.08.21-00.56.11:346][947]LogStats:     SeamlessTravel FlushLevelStreaming  -  0.001 s
+[2018.08.21-00.56.11:350][947]LogWorld: Bringing World /Game/GameStates/MultiplayerMatch/MultiplayerMap1.MultiplayerMap1 up for play (max tick rate 0) at 2018.08.20-18.56.11
+[2018.08.21-00.56.11:351][947]LogWorld: Bringing up level for play took: 0.004810
+[2018.08.21-00.56.11:352][947]LogWorld: Sending NotifyLoadedWorld for LP: LocalPlayer_0 PC: LobbyCharacterController_C_0
+[2018.08.21-00.56.11:352][947]LogNet: Verbose: NotifyLoadedWorld Begin
+[2018.08.21-00.56.11:352][947]LogNet: VeryVerbose: GetFunctionCallspace Server calling Server function: ServerNotifyLoadedWorld Local
+[2018.08.21-00.56.11:352][947]LogNet: Verbose: NotifyLoadedWorld End
+[2018.08.21-00.56.11:352][947]LogWorld: ----SeamlessTravel finished in 2.09 seconds ------
+[2018.08.21-00.56.11:355][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.21-00.56.25:422][810]LogSlate: Window 'OurProject (64-bit Development PCD3D_SM5) ' being destroyed
+[2018.08.21-00.56.25:424][810]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.21-00.56.25:430][810]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.21-00.56.25:434][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.21-00.56.25:434][810]LogEngine: All Windows Closed
+[2018.08.21-00.56.25:434][810]LogWindows: FPlatformMisc::RequestExit(0)
+[2018.08.21-00.56.25:450][811]LogNet: World NetDriver shutdown SteamNetDriver_0 [GameNetDriver]
+[2018.08.21-00.56.25:450][811]LogNet: DestroyNamedNetDriver SteamNetDriver_0 [GameNetDriver]
+[2018.08.21-00.56.25:450][811]LogExit: GameNetDriver SteamNetDriver_0 shut down
+[2018.08.21-00.56.25:743][811]LogExit: Preparing to exit.
+[2018.08.21-00.56.25:743][811]LogMoviePlayer: Shutting down movie player
+[2018.08.21-00.56.25:934][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.21-00.56.25:952][811]LogExit: Game engine shut down
+[2018.08.21-00.56.26:296][811]LogExit: Object subsystem successfully closed.
+[2018.08.21-00.56.26:329][811]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.08.21-00.56.26:335][811]LogD3D11RHI: Shutdown
+[2018.08.21-00.56.26:336][811]LogD3D11RHI: CleanupD3DDevice
+[2018.08.21-00.56.26:338][811]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.08.21-00.56.26:366][811]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (376)
+[2018.08.21-00.56.26:366][811]LogModuleManager: Shutting down and abandoning module SequenceRecorder (374)
+[2018.08.21-00.56.26:366][811]LogModuleManager: Shutting down and abandoning module AutomationController (372)
+[2018.08.21-00.56.26:366][811]LogModuleManager: Shutting down and abandoning module AutomationWorker (370)
+[2018.08.21-00.56.26:366][811]LogModuleManager: Shutting down and abandoning module AIModule (368)
+[2018.08.21-00.56.26:366][811]LogModuleManager: Shutting down and abandoning module GameplayDebugger (367)
+[2018.08.21-00.56.26:366][811]LogModuleManager: Shutting down and abandoning module AITestSuite (365)
+[2018.08.21-00.56.26:366][811]LogModuleManager: Shutting down and abandoning module NavigationSystem (363)
+[2018.08.21-00.56.26:366][811]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (360)
+[2018.08.21-00.56.26:366][811]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (358)
+[2018.08.21-00.56.26:366][811]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (356)
+[2018.08.21-00.56.26:366][811]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (354)
+[2018.08.21-00.56.26:366][811]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (352)
+[2018.08.21-00.56.26:366][811]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (350)
+[2018.08.21-00.56.26:366][811]LogModuleManager: Shutting down and abandoning module CharacterAI (348)
+[2018.08.21-00.56.26:366][811]LogModuleManager: Shutting down and abandoning module SessionServices (346)
+[2018.08.21-00.56.26:366][811]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (344)
+[2018.08.21-00.56.26:366][811]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (342)
+[2018.08.21-00.56.26:366][811]LogModuleManager: Shutting down and abandoning module MovieScene (340)
+[2018.08.21-00.56.26:366][811]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (338)
+[2018.08.21-00.56.26:366][811]LogModuleManager: Shutting down and abandoning module PortalServices (336)
+[2018.08.21-00.56.26:366][811]LogModuleManager: Shutting down and abandoning module PortalRpc (334)
+[2018.08.21-00.56.26:366][811]LogModuleManager: Shutting down and abandoning module MessagingRpc (332)
+[2018.08.21-00.56.26:366][811]LogModuleManager: Shutting down and abandoning module ProfilerService (330)
+[2018.08.21-00.56.26:448][811]LogModuleManager: Shutting down and abandoning module TaskGraph (328)
+[2018.08.21-00.56.26:448][811]LogModuleManager: Shutting down and abandoning module SteamVRController (326)
+[2018.08.21-00.56.26:448][811]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (324)
+[2018.08.21-00.56.26:449][811]LogModuleManager: Shutting down and abandoning module OculusInput (322)
+[2018.08.21-00.56.26:449][811]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (320)
+[2018.08.21-00.56.26:449][811]LogModuleManager: Shutting down and abandoning module EditableMesh (318)
+[2018.08.21-00.56.26:449][811]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (316)
+[2018.08.21-00.56.26:449][811]LogModuleManager: Shutting down and abandoning module CableComponent (314)
+[2018.08.21-00.56.26:449][811]LogModuleManager: Shutting down and abandoning module AudioCapture (312)
+[2018.08.21-00.56.26:449][811]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (310)
+[2018.08.21-00.56.26:449][811]LogModuleManager: Shutting down and abandoning module AndroidPermission (308)
+[2018.08.21-00.56.26:449][811]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (304)
+[2018.08.21-00.56.26:449][811]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (302)
+[2018.08.21-00.56.26:449][811]LogModuleManager: Shutting down and abandoning module MediaCompositing (300)
+[2018.08.21-00.56.26:449][811]LogModuleManager: Shutting down and abandoning module LinearTimecode (298)
+[2018.08.21-00.56.26:449][811]LogModuleManager: Shutting down and abandoning module ImgMedia (296)
+[2018.08.21-00.56.26:458][811]LogModuleManager: Shutting down and abandoning module HTML5Networking (294)
+[2018.08.21-00.56.26:459][811]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (292)
+[2018.08.21-00.56.26:459][811]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (291)
+[2018.08.21-00.56.26:459][811]LogModuleManager: Shutting down and abandoning module GeometryCache (288)
+[2018.08.21-00.56.26:459][811]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (287)
+[2018.08.21-00.56.26:459][811]LogModuleManager: Shutting down and abandoning module BackChannel (284)
+[2018.08.21-00.56.26:459][811]LogModuleManager: Shutting down and abandoning module AppleVision (282)
+[2018.08.21-00.56.26:459][811]LogModuleManager: Shutting down and abandoning module AppleImageUtils (280)
+[2018.08.21-00.56.26:459][811]LogModuleManager: Shutting down and abandoning module DatasmithContent (278)
+[2018.08.21-00.56.26:460][811]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (276)
+[2018.08.21-00.56.26:460][811]LogModuleManager: Shutting down and abandoning module CryptoKeys (274)
+[2018.08.21-00.56.26:460][811]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (272)
+[2018.08.21-00.56.26:460][811]LogModuleManager: Shutting down and abandoning module HotReload (271)
+[2018.08.21-00.56.26:461][811]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (270)
+[2018.08.21-00.56.26:461][811]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (266)
+[2018.08.21-00.56.26:461][811]LogModuleManager: Shutting down and abandoning module UObjectPlugin (264)
+[2018.08.21-00.56.26:461][811]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (262)
+[2018.08.21-00.56.26:461][811]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (260)
+[2018.08.21-00.56.26:461][811]LogModuleManager: Shutting down and abandoning module SourceControl (259)
+[2018.08.21-00.56.26:461][811]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (256)
+[2018.08.21-00.56.26:461][811]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (254)
+[2018.08.21-00.56.26:461][811]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (252)
+[2018.08.21-00.56.26:461][811]LogModuleManager: Shutting down and abandoning module PhysXVehicles (250)
+[2018.08.21-00.56.26:461][811]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (248)
+[2018.08.21-00.56.26:461][811]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (246)
+[2018.08.21-00.56.26:461][811]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (244)
+[2018.08.21-00.56.26:461][811]LogModuleManager: Shutting down and abandoning module ActorSequence (242)
+[2018.08.21-00.56.26:461][811]LogModuleManager: Shutting down and abandoning module UdpMessaging (240)
+[2018.08.21-00.56.26:562][811]LogModuleManager: Shutting down and abandoning module TcpMessaging (238)
+[2018.08.21-00.56.26:881][811]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (236)
+[2018.08.21-00.56.26:881][811]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (234)
+[2018.08.21-00.56.26:881][811]LogModuleManager: Shutting down and abandoning module FacialAnimation (232)
+[2018.08.21-00.56.26:881][811]LogModuleManager: Shutting down and abandoning module DataValidation (230)
+[2018.08.21-00.56.26:881][811]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (228)
+[2018.08.21-00.56.26:881][811]LogModuleManager: Shutting down and abandoning module TreeMap (227)
+[2018.08.21-00.56.26:881][811]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (224)
+[2018.08.21-00.56.26:881][811]LogModuleManager: Shutting down and abandoning module AISupportModule (222)
+[2018.08.21-00.56.26:881][811]LogModuleManager: Shutting down and abandoning module Paper2D (220)
+[2018.08.21-00.56.26:881][811]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (218)
+[2018.08.21-00.56.26:881][811]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (216)
+[2018.08.21-00.56.26:881][811]LogModuleManager: Shutting down and abandoning module WmfMedia (214)
+[2018.08.21-00.56.26:884][811]LogModuleManager: Shutting down and abandoning module Media (213)
+[2018.08.21-00.56.26:891][811]LogModuleManager: Shutting down and abandoning module PacketHandler (210)
+[2018.08.21-00.56.26:891][811]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (208)
+[2018.08.21-00.56.26:891][811]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (206)
+[2018.08.21-00.56.26:891][811]LogModuleManager: Shutting down and abandoning module MediaAssets (204)
+[2018.08.21-00.56.26:891][811]LogModuleManager: Shutting down and abandoning module Overlay (202)
+[2018.08.21-00.56.26:891][811]LogModuleManager: Shutting down and abandoning module OverlayEditor (201)
+[2018.08.21-00.56.26:891][811]LogModuleManager: Shutting down and abandoning module VREditor (198)
+[2018.08.21-00.56.26:891][811]LogModuleManager: Shutting down and abandoning module StringTableEditor (196)
+[2018.08.21-00.56.26:891][811]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (194)
+[2018.08.21-00.56.26:891][811]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (192)
+[2018.08.21-00.56.26:891][811]LogModuleManager: Shutting down and abandoning module FunctionalTesting (190)
+[2018.08.21-00.56.26:891][811]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (188)
+[2018.08.21-00.56.26:891][811]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (187)
+[2018.08.21-00.56.26:891][811]LogModuleManager: Shutting down and abandoning module UMG (184)
+[2018.08.21-00.56.26:891][811]LogModuleManager: Shutting down and abandoning module UMGEditor (183)
+[2018.08.21-00.56.26:891][811]LogModuleManager: Shutting down and abandoning module Sequencer (182)
+[2018.08.21-00.56.26:892][811]LogModuleManager: Shutting down and abandoning module MessageLog (179)
+[2018.08.21-00.56.26:892][811]LogModuleManager: Shutting down and abandoning module SlateReflector (174)
+[2018.08.21-00.56.26:892][811]LogModuleManager: Shutting down and abandoning module Slate (172)
+[2018.08.21-00.56.26:892][811]LogModuleManager: Shutting down and abandoning module EditorStyle (170)
+[2018.08.21-00.56.26:894][811]LogModuleManager: Shutting down and abandoning module MRMesh (168)
+[2018.08.21-00.56.26:894][811]LogModuleManager: Shutting down and abandoning module Messaging (166)
+[2018.08.21-00.56.26:894][811]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (164)
+[2018.08.21-00.56.26:894][811]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (162)
+[2018.08.21-00.56.26:894][811]LogModuleManager: Shutting down and abandoning module XAudio2 (160)
+[2018.08.21-00.56.26:894][811]LogModuleManager: Shutting down and abandoning module Networking (158)
+[2018.08.21-00.56.26:894][811]LogModuleManager: Shutting down and abandoning module Core (156)
+[2018.08.21-00.56.26:894][811]LogModuleManager: Shutting down and abandoning module LevelSequence (154)
+[2018.08.21-00.56.26:894][811]LogModuleManager: Shutting down and abandoning module KismetCompiler (152)
+[2018.08.21-00.56.26:894][811]LogModuleManager: Shutting down and abandoning module MeshUtilities (150)
+[2018.08.21-00.56.26:894][811]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (149)
+[2018.08.21-00.56.26:894][811]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (148)
+[2018.08.21-00.56.26:894][811]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (147)
+[2018.08.21-00.56.26:894][811]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (145)
+[2018.08.21-00.56.26:894][811]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (143)
+[2018.08.21-00.56.26:894][811]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (141)
+[2018.08.21-00.56.26:894][811]LogModuleManager: Shutting down and abandoning module MaterialBaking (137)
+[2018.08.21-00.56.26:895][811]LogModuleManager: Shutting down and abandoning module DerivedDataCache (132)
+[2018.08.21-00.56.26:951][811]LogDerivedDataCache: Shutdown
+[2018.08.21-00.56.26:951][811]LogModuleManager: Shutting down and abandoning module XGEController (130)
+[2018.08.21-00.56.26:951][811]LogModuleManager: Shutting down and abandoning module TargetPlatform (128)
+[2018.08.21-00.56.26:951][811]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (127)
+[2018.08.21-00.56.26:951][811]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (125)
+[2018.08.21-00.56.26:951][811]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (123)
+[2018.08.21-00.56.26:951][811]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (121)
+[2018.08.21-00.56.26:951][811]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (119)
+[2018.08.21-00.56.26:951][811]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (117)
+[2018.08.21-00.56.26:951][811]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (115)
+[2018.08.21-00.56.26:952][811]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (113)
+[2018.08.21-00.56.26:952][811]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (111)
+[2018.08.21-00.56.26:952][811]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (109)
+[2018.08.21-00.56.26:952][811]LogModuleManager: Shutting down and abandoning module ImageWrapper (108)
+[2018.08.21-00.56.26:952][811]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (105)
+[2018.08.21-00.56.26:952][811]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (103)
+[2018.08.21-00.56.26:952][811]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (101)
+[2018.08.21-00.56.26:952][811]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (99)
+[2018.08.21-00.56.26:952][811]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (97)
+[2018.08.21-00.56.26:952][811]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (95)
+[2018.08.21-00.56.26:952][811]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (93)
+[2018.08.21-00.56.26:952][811]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (91)
+[2018.08.21-00.56.26:952][811]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.08.21-00.56.26:952][811]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.08.21-00.56.26:952][811]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.08.21-00.56.26:952][811]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.08.21-00.56.26:952][811]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.08.21-00.56.26:952][811]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.08.21-00.56.26:952][811]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.08.21-00.56.26:952][811]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.08.21-00.56.26:952][811]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.08.21-00.56.26:952][811]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2018.08.21-00.56.26:998][811]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2018.08.21-00.56.26:998][811]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.08.21-00.56.26:998][811]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.08.21-00.56.27:018][811]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.08.21-00.56.27:052][811]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.08.21-00.56.27:054][811]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.08.21-00.56.27:055][811]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.08.21-00.56.27:055][811]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.08.21-00.56.27:055][811]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.08.21-00.56.27:055][811]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.08.21-00.56.27:055][811]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.08.21-00.56.27:055][811]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.08.21-00.56.27:055][811]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.08.21-00.56.27:055][811]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.08.21-00.56.27:055][811]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.08.21-00.56.27:055][811]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.08.21-00.56.27:055][811]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.08.21-00.56.27:055][811]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.08.21-00.56.27:055][811]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.08.21-00.56.27:056][811]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.08.21-00.56.27:056][811]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.08.21-00.56.27:056][811]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.08.21-00.56.27:056][811]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.08.21-00.56.27:056][811]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.08.21-00.56.27:056][811]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.08.21-00.56.27:056][811]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.08.21-00.56.27:056][811]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.08.21-00.56.27:056][811]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.08.21-00.56.27:057][811]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.08.21-00.56.27:057][811]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.08.21-00.56.27:057][811]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.08.21-00.56.27:057][811]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.08.21-00.56.27:057][811]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.08.21-00.56.27:057][811]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.08.21-00.56.27:066][811]LogExit: Exiting.
+[2018.08.21-00.56.27:070][811]Log file closed, 08/20/18 18:56:27

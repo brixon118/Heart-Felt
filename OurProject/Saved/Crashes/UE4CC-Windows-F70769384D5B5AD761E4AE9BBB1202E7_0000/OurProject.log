@@ -1,0 +1,543 @@
+﻿Log file open, 08/13/18 17:31:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: OurProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.387494
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.587s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD FX-8800P Radeon R7, 12 Compute Cores 4C+8G , GPU: AMD Radeon (TM) R9 360
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.025s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.13-23.31.27:805][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.13-23.31.27:805][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.13-23.31.27:901][  0]LogHAL: Display: Platform has ~ 16 GB [17113329664 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.08.13-23.31.27:902][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.08.13-23.31.27:902][  0]LogInit: Going up to parent DeviceProfile []
+[2018.08.13-23.31.27:903][  0]LogInit: Computer: LINK
+[2018.08.13-23.31.27:903][  0]LogInit: User: brixo
+[2018.08.13-23.31.27:903][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.13-23.31.27:903][  0]LogInit: High frequency timer resolution =2.046939 MHz
+[2018.08.13-23.31.27:903][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.08.13-23.31.27:903][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.13-23.31.27:903][  0]LogMemory: Process Physical Memory: 100.84 MB used, 100.84 MB peak
+[2018.08.13-23.31.27:903][  0]LogMemory: Process Virtual Memory: 84.49 MB used, 84.49 MB peak
+[2018.08.13-23.31.27:903][  0]LogMemory: Physical Memory: 7033.06 MB used,  9287.48 MB free, 16320.54 MB total
+[2018.08.13-23.31.27:903][  0]LogMemory: Virtual Memory: 4624.23 MB used,  9287.48 MB free, 134217728.00 MB total
+[2018.08.13-23.31.27:955][  0]LogInit: Using OS detected language (en-US).
+[2018.08.13-23.31.27:955][  0]LogInit: Using OS detected locale (en-US).
+[2018.08.13-23.31.27:958][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.08.13-23.31.28:818][  0]LogStreaming: Display: Took  0.863s to InitEngineTextLocalization.
+[2018.08.13-23.31.28:818][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.13-23.31.28:916][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.13-23.31.28:916][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.13-23.31.29:736][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.13-23.31.29:736][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.13-23.31.29:795][  0]LogD3D11RHI:    0. 'AMD Radeon (TM) R9 360' (Feature Level 11_0)
+[2018.08.13-23.31.29:795][  0]LogD3D11RHI:       2025/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.08.13-23.31.29:802][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.13-23.31.29:803][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.13-23.31.29:803][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.13-23.31.29:824][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.13-23.31.29:825][  0]LogD3D11RHI:     GPU DeviceId: 0x665f (for the marketing name, search the web for "GPU Device Id")
+[2018.08.13-23.31.29:825][  0]LogWindows: EnumDisplayDevices:
+[2018.08.13-23.31.29:825][  0]LogWindows:    0. 'AMD Radeon (TM) R9 360' (P:1 D:1)
+[2018.08.13-23.31.29:826][  0]LogWindows:    1. 'AMD Radeon (TM) R9 360' (P:0 D:1)
+[2018.08.13-23.31.29:826][  0]LogWindows:    2. 'AMD Radeon (TM) R9 360' (P:0 D:0)
+[2018.08.13-23.31.29:827][  0]LogWindows:    3. 'AMD Radeon (TM) R9 360' (P:0 D:0)
+[2018.08.13-23.31.29:828][  0]LogWindows:    4. 'AMD Radeon (TM) R9 360' (P:0 D:0)
+[2018.08.13-23.31.29:828][  0]LogWindows:    5. 'AMD Radeon (TM) R9 360' (P:0 D:0)
+[2018.08.13-23.31.29:828][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2018.08.13-23.31.29:828][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) R9 360
+[2018.08.13-23.31.29:829][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.7 (internal:22.19.172.769, unified:22.19.172.769)
+[2018.08.13-23.31.29:829][  0]LogD3D11RHI:      Driver Date: 6-27-2017
+[2018.08.13-23.31.29:829][  0]LogRHI: Texture pool is 1417 MB (70% of 2025 MB)
+[2018.08.13-23.31.30:008][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.13-23.31.30:030][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.08.13-23.31.30:036][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Intermediate/Shaders/WorkingDirectory/9596/).
+[2018.08.13-23.31.30:036][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/brixo/AppData/Local/Temp/UnrealShaderWorkingDir/CC2F4D5E40E688DE3125DAB55EAAAF38/'.
+[2018.08.13-23.31.31:936][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.13-23.31.31:971][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.13-23.31.32:010][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.13-23.31.32:047][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.13-23.31.32:084][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.13-23.31.32:121][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.13-23.31.32:162][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.13-23.31.32:203][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.13-23.31.32:222][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.13-23.31.32:422][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-23.31.32:422][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-23.31.32:422][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-23.31.32:422][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-23.31.32:422][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-23.31.32:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-23.31.32:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-23.31.32:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-23.31.32:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-23.31.32:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-23.31.32:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-23.31.32:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-23.31.32:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-23.31.32:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-23.31.32:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-23.31.32:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-23.31.32:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-23.31.32:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-23.31.32:428][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.13-23.31.32:548][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.13-23.31.32:548][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.13-23.31.32:607][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.13-23.31.32:607][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.13-23.31.32:641][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.13-23.31.32:673][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.13-23.31.32:703][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.13-23.31.32:739][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.13-23.31.32:762][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.08.13-23.31.32:762][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.13-23.31.32:956][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.13-23.31.32:956][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.13-23.31.32:956][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.13-23.31.35:916][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.13-23.31.36:136][  0]LogDerivedDataCache: Loaded boot cache 0.22s 71MB C:/Users/brixo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.13-23.31.36:137][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/brixo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.08.13-23.31.36:138][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.13-23.31.36:138][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.13-23.31.36:138][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.13-23.31.36:138][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.13-23.31.36:162][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.13-23.31.36:178][  0]LogDerivedDataCache: Using Local data cache path C:/Users/brixo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.13-23.31.36:178][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.13-23.31.36:178][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.13-23.31.36:222][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.13-23.31.36:225][  0]LogSlate: Using FreeType 2.6.0
+[2018.08.13-23.31.36:227][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.13-23.31.36:397][  0]LogAssetRegistry: FAssetRegistry took 0.0344 seconds to start up
+[2018.08.13-23.31.37:381][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.13-23.31.37:746][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.13-23.31.37:758][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.13-23.31.37:758][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.08.13-23.31.37:758][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.13-23.31.37:758][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.13-23.31.37:819][  0]LogNetVersion: OurProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3951183775)
+[2018.08.13-23.31.39:731][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.494306 seconds
+[2018.08.13-23.31.39:752][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.08.13-23.31.39:752][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.08.13-23.31.39:752][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.13-23.31.42:326][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.13-23.31.42:346][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.13-23.31.42:682][  0]SourceControl: Source control is disabled
+[2018.08.13-23.31.42:683][  0]SourceControl: Source control is disabled
+[2018.08.13-23.31.42:687][  0]SourceControl: Source control is disabled
+[2018.08.13-23.31.42:691][  0]SourceControl: Source control is disabled
+[2018.08.13-23.31.43:047][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.13-23.31.43:335][  0]LogOcInput: OculusInput pre-init called
+[2018.08.13-23.31.43:470][  0]LogEngine: Initializing Engine...
+[2018.08.13-23.31.43:471][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.13-23.31.43:476][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.13-23.31.43:476][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.13-23.31.43:476][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.13-23.31.43:476][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.13-23.31.44:079][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.08.13-23.31.44:135][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.13-23.31.44:172][  0]LogInit: XAudio2 using 'Headset Earphone (Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-23.31.44:226][  0]LogInit: FAudioDevice initialized.
+[2018.08.13-23.31.44:226][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.08.13-23.31.44:470][  0]LogDerivedDataCache: Saved boot cache 0.24s 71MB C:/Users/brixo/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.13-23.31.44:497][  0]LogInit: Texture streaming: Enabled
+[2018.08.13-23.31.44:557][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.13-23.31.44:612][  0]LogInit: Transaction tracking system initialized
+[2018.08.13-23.31.44:693][  0]BlueprintLog: New page: Editor Load
+[2018.08.13-23.31.44:969][  0]LocalizationService: Localization service is disabled
+[2018.08.13-23.31.45:871][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.13-23.31.45:871][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.13-23.31.45:871][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.13-23.31.45:871][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.13-23.31.45:871][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.13-23.31.45:872][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.13-23.31.45:872][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.13-23.31.45:939][  0]LogFileCache: Scanning file cache for directory 'C:/Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/' took 0.03s
+[2018.08.13-23.31.46:248][  0]SourceControl: Source control is disabled
+[2018.08.13-23.31.46:248][  0]Cmd: MAP LOAD FILE="../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/GameStates/MainMenu/MainMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.13-23.31.46:252][  0]LightingResults: New page: Lighting Build
+[2018.08.13-23.31.46:262][  0]MapCheck: New page: Map Check
+[2018.08.13-23.31.46:262][  0]LightingResults: New page: Lighting Build
+[2018.08.13-23.31.47:401][  0]LogAIModule: Creating AISystem for world MainMenuMap
+[2018.08.13-23.31.47:404][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.13-23.31.47:472][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.13-23.31.47:662][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 189.691ms to complete.
+[2018.08.13-23.31.47:662][  0]LogFileHelpers: Loading map 'MainMenuMap' took 1.414
+[2018.08.13-23.31.48:030][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-23.31.48:053][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-23.31.48:074][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-23.31.48:097][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-23.31.48:123][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-23.31.48:145][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-23.31.48:164][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-23.31.48:182][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-23.31.48:239][  0]LogCollectionManager: Loaded 0 collections in 0.005268 seconds
+[2018.08.13-23.31.48:312][  0]LogFileCache: Scanning file cache for directory 'C:/Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/Collections/' took 0.01s
+[2018.08.13-23.31.48:312][  0]LogFileCache: Scanning file cache for directory 'C:/Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Developers/brixo/Collections/' took 0.01s
+[2018.08.13-23.31.48:312][  0]LogFileCache: Scanning file cache for directory 'C:/Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Collections/' took 0.01s
+[2018.08.13-23.31.48:312][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.08.13-23.31.48:335][  0]LogContentBrowser: Native class hierarchy populated in 0.0222 seconds. Added 2572 classes and 603 folders.
+[2018.08.13-23.31.48:352][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2018.08.13-23.31.51:562][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.08.13-23.31.51:639][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.08.13-23.31.51:826][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0007 seconds. Added 2 classes and 3 folders.
+[2018.08.13-23.31.52:072][  0]LogSlate: Took 0.000662 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.13-23.31.52:075][  0]LogSlate: Took 0.000619 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.13-23.31.52:129][  0]LogSlate: Took 0.040575 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.13-23.31.52:700][  0]LogRenderer: Reallocating scene render targets to support 544x552 Format 10 NumSamples 1 (Frame:1).
+[2018.08.13-23.31.52:865][  0]LogRenderer: Reallocating scene render targets to support 712x552 Format 10 NumSamples 1 (Frame:2).
+[2018.08.13-23.31.53:086][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.08.13-23.31.53:086][  0]LogLoad: (Engine Initialization) Total time: 31.52 seconds
+[2018.08.13-23.31.53:086][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.13-23.31.53:128][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.08.13-23.31.53:452][  3]LogAssetRegistry: Asset discovery search completed in 17.0802 seconds
+[2018.08.13-23.31.53:456][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.08.13-23.31.53:456][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000186 seconds (updated 0 objects)
+[2018.08.13-23.31.54:467][  6]LogSlate: Took 0.024837 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.13-23.31.57:468][ 15]LogSlate: Took 0.000588 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.13-23.43.46:878][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-23.43.46:893][124]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-23.43.46:951][124]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameStates/MainMenu/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameStates/MainMenu/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/GameStates/MainMenu/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/GameStates/MainMenu/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2018.08.13-23.43.46:951][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-23.43.46:968][124]PIE: New page: PIE session: MainMenuMap (Aug 13, 2018, 11:43:46 AM)
+[2018.08.13-23.43.46:970][124]LogPlayLevel: Creating play world package: /Game/GameStates/MainMenu/UEDPIE_0_MainMenuMap
+[2018.08.13-23.43.46:974][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004141s)
+[2018.08.13-23.43.46:976][124]LogAIModule: Creating AISystem for world MainMenuMap
+[2018.08.13-23.43.46:976][124]LogPlayLevel: PIE: World Init took: (0.002257s)
+[2018.08.13-23.43.46:977][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameStates/MainMenu/MainMenuMap.MainMenuMap to /Game/GameStates/MainMenu/UEDPIE_0_MainMenuMap.MainMenuMap (0.006912s)
+[2018.08.13-23.43.47:062][124]LogInit: XAudio2 using 'Headset Earphone (Corsair Gaming H2100 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-23.43.47:095][124]LogInit: FAudioDevice initialized.
+[2018.08.13-23.43.47:166][124]LogLoad: Game class is 'MenuGameMode_C'
+[2018.08.13-23.43.47:171][124]LogWorld: Bringing World /Game/GameStates/MainMenu/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2018.08.13-17.43.47
+[2018.08.13-23.43.47:171][124]LogWorld: Bringing up level for play took: 0.001360
+[2018.08.13-23.43.47:200][124]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 10 classes and 0 folders.
+[2018.08.13-23.43.47:215][124]PIE: Play in editor start time for /Game/GameStates/MainMenu/UEDPIE_0_MainMenuMap 0.154
+[2018.08.13-23.43.47:216][124]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameStates/MainMenu/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameStates/MainMenu/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/GameStates/MainMenu/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/GameStates/MainMenu/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2018.08.13-23.43.51:314][338]LogInit: WinSock: I am Link (192.168.1.215:0)
+[2018.08.13-23.43.51:319][338]LogNet: Browse: /Game/GameStates/Lobby/LobbbyMap?listen
+[2018.08.13-23.43.51:320][338]LogLoad: LoadMap: /Game/GameStates/Lobby/LobbbyMap?listen
+[2018.08.13-23.43.53:795][338]LogLinker: Warning: Can't find file '/Game/Environment/Background/None'
+[2018.08.13-23.43.53:796][338]LogLinker: Warning: Can't find file for asset '/Game/Environment/Background/None' while loading ../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Environment/Background/Tunnel.uasset.
+[2018.08.13-23.43.53:796][338]LoadErrors: Error: /Game/Environment/Background/Tunnel : Can't find file for asset. /Game/Environment/Background/None
+[2018.08.13-23.43.53:797][338]LogLinker: Warning: Can't find file '/Game/Environment/Background/None'
+[2018.08.13-23.43.53:797][338]LogLinker: Warning: Can't find file for asset '/Game/Environment/Background/None' while loading ../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Environment/Background/Tunnel.uasset.
+[2018.08.13-23.43.53:880][338]LogLinker: Warning: Can't find file '/Game/Environment/Background/None'
+[2018.08.13-23.43.53:880][338]LoadErrors: Failed to load /Game/Environment/Background/None.Material_0 Referenced by Tunnel
+[2018.08.13-23.43.53:881][338]LogLinker: Warning: Can't find file for asset '/Game/Environment/Background/None' while loading NULL.
+[2018.08.13-23.43.53:881][338]LogLinker: Warning: Can't find file '/Game/Environment/Background/None'
+[2018.08.13-23.43.53:882][338]LogLinker: Warning: Can't find file for asset '/Game/Environment/Background/None' while loading NULL.
+[2018.08.13-23.43.56:527][338]LogAIModule: Creating AISystem for world LobbbyMap
+[2018.08.13-23.43.56:528][338]LogLoad: Game class is 'LobbyGameMode_C'
+[2018.08.13-23.43.56:529][338]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.08.13-23.43.56:529][338]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2018.08.13-23.43.56:529][338]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.08.13-23.43.56:529][338]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2018.08.13-23.43.56:530][338]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.08.13-23.43.56:531][338]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.08.13-23.43.56:531][338]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2018.08.13-23.43.56:541][338]LogWorld: Bringing World /Game/GameStates/Lobby/UEDPIE_0_LobbbyMap.LobbbyMap up for play (max tick rate 0) at 2018.08.13-17.43.56
+[2018.08.13-23.43.56:542][338]LogWorld: Bringing up level for play took: 0.008808
+[2018.08.13-23.43.56:554][338]LogLoad: Took 5.234528 seconds to LoadMap(/Game/GameStates/Lobby/LobbbyMap)
+[2018.08.13-23.43.56:641][339]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 5.31, Realtime: 0.09. IpNetDriver_0
+[2018.08.13-23.44.13:933][213]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameStates/MainMenu/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameStates/MainMenu/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/GameStates/MainMenu/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/GameStates/MainMenu/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2018.08.13-23.44.13:934][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-23.44.13:990][213]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.13-23.44.13:991][213]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameStates/MainMenu/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameStates/MainMenu/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/GameStates/MainMenu/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/GameStates/MainMenu/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2018.08.13-23.44.14:061][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.13-23.44.14:068][213]LogExit: GameNetDriver None shut down
+[2018.08.13-23.44.14:120][214]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.08.13-23.51.16:896][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.13-23.51.21:774][381]LogBlueprint: Warning: [Compiler 2DSideScrollerCharacter_2] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.08.13-23.51.21:786][381]LogBlueprint: Warning: [Compiler 2DSideScrollerCharacter_2] [1200.22] Compile of 2DSideScrollerCharacter_2 successful, but with 1 Warning(s) [in 28 ms] (/Game/Actors/TestingActor/2DSideScrollerCharacter_2.2DSideScrollerCharacter_2)
+[2018.08.13-23.51.32:911][ 62]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Actors/CharacterSuperClass.CharacterSuperClass
+[2018.08.13-23.51.34:896][ 62]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 116 classes and 0 folders.
+[2018.08.13-23.51.37:626][ 62]LogSlate: Took 0.027849 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.13-23.51.38:286][ 63]LogSlate: Took 0.028931 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.13-23.51.41:032][155]LogSlate: Window 'CharacterSuperClass' being destroyed
+[2018.08.13-23.52.52:901][677]LogMetaData: Removing '/Game/Actors/TestingActor2/2DSideScrollerCharacter_2.2DSideScrollerCharacter_2_C' ref from Metadata '/Game/Actors/TestingActor/2DSideScrollerCharacter_2.PackageMetaData'
+[2018.08.13-23.52.52:901][677]LogMetaData: Removing '/Game/Actors/TestingActor2/2DSideScrollerCharacter_2.SKEL_2DSideScrollerCharacter_2_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_5' ref from Metadata '/Game/Actors/TestingActor/2DSideScrollerCharacter_2.PackageMetaData'
+[2018.08.13-23.52.52:901][677]LogMetaData: Removing '/Game/Actors/TestingActor2/2DSideScrollerCharacter_2.SKEL_2DSideScrollerCharacter_2_C:ReceiveBeginPlay' ref from Metadata '/Game/Actors/TestingActor/2DSideScrollerCharacter_2.PackageMetaData'
+[2018.08.13-23.52.52:901][677]LogMetaData: Removing '/Game/Actors/TestingActor2/2DSideScrollerCharacter_2.SKEL_2DSideScrollerCharacter_2_C:ReceiveTick' ref from Metadata '/Game/Actors/TestingActor/2DSideScrollerCharacter_2.PackageMetaData'
+[2018.08.13-23.52.52:901][677]LogMetaData: Removing '/Game/Actors/TestingActor2/2DSideScrollerCharacter_2.SKEL_2DSideScrollerCharacter_2_C:bisMovingRight' ref from Metadata '/Game/Actors/TestingActor/2DSideScrollerCharacter_2.PackageMetaData'
+[2018.08.13-23.52.52:901][677]LogMetaData: Removing '/Game/Actors/TestingActor2/2DSideScrollerCharacter_2.SKEL_2DSideScrollerCharacter_2_C:CameraBoom' ref from Metadata '/Game/Actors/TestingActor/2DSideScrollerCharacter_2.PackageMetaData'
+[2018.08.13-23.52.52:901][677]LogMetaData: Removing '/Game/Actors/TestingActor2/2DSideScrollerCharacter_2.SKEL_2DSideScrollerCharacter_2_C:SideViewCameraComponent' ref from Metadata '/Game/Actors/TestingActor/2DSideScrollerCharacter_2.PackageMetaData'
+[2018.08.13-23.52.52:902][677]LogMetaData: Removing '/Game/Actors/TestingActor2/2DSideScrollerCharacter_2.SKEL_2DSideScrollerCharacter_2_C:UserConstructionScript' ref from Metadata '/Game/Actors/TestingActor/2DSideScrollerCharacter_2.PackageMetaData'
+[2018.08.13-23.52.52:902][677]LogMetaData: Removing '/Game/Actors/TestingActor2/2DSideScrollerCharacter_2.SKEL_2DSideScrollerCharacter_2_C' ref from Metadata '/Game/Actors/TestingActor/2DSideScrollerCharacter_2.PackageMetaData'
+[2018.08.13-23.52.52:902][677]LogMetaData: Removing '/Game/Actors/TestingActor2/2DSideScrollerCharacter_2.2DSideScrollerCharacter_2_C:bisMovingRight' ref from Metadata '/Game/Actors/TestingActor/2DSideScrollerCharacter_2.PackageMetaData'
+[2018.08.13-23.52.52:902][677]LogMetaData: Removing '/Game/Actors/TestingActor2/2DSideScrollerCharacter_2.2DSideScrollerCharacter_2_C:CameraBoom' ref from Metadata '/Game/Actors/TestingActor/2DSideScrollerCharacter_2.PackageMetaData'
+[2018.08.13-23.52.52:902][677]LogMetaData: Removing '/Game/Actors/TestingActor2/2DSideScrollerCharacter_2.2DSideScrollerCharacter_2_C:SideViewCameraComponent' ref from Metadata '/Game/Actors/TestingActor/2DSideScrollerCharacter_2.PackageMetaData'
+[2018.08.13-23.52.52:902][677]LogMetaData: Removing '/Game/Actors/TestingActor2/2DSideScrollerCharacter_2.2DSideScrollerCharacter_2_C:ReceiveTick' ref from Metadata '/Game/Actors/TestingActor/2DSideScrollerCharacter_2.PackageMetaData'
+[2018.08.13-23.52.52:902][677]LogMetaData: Removing '/Game/Actors/TestingActor2/2DSideScrollerCharacter_2.2DSideScrollerCharacter_2_C:ReceiveBeginPlay' ref from Metadata '/Game/Actors/TestingActor/2DSideScrollerCharacter_2.PackageMetaData'
+[2018.08.13-23.52.52:902][677]LogMetaData: Removing '/Game/Actors/TestingActor2/2DSideScrollerCharacter_2.2DSideScrollerCharacter_2_C:UserConstructionScript' ref from Metadata '/Game/Actors/TestingActor/2DSideScrollerCharacter_2.PackageMetaData'
+[2018.08.13-23.52.54:012][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/2DSideScrollerCharacter_2209F8CB541BE4AE61659B5BA43812FEB.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/2DSideScrollerCharacter_2.uasset'
+[2018.08.13-23.52.54:039][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/TestingActor2/Ledge" FILE="../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Ledge.uasset" SILENT=true
+[2018.08.13-23.52.54:071][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/LedgeCFA6346F49F75BB8232F099A745101F9.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Ledge.uasset'
+[2018.08.13-23.52.54:168][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/PrototypingSpriteCA4078C746DD7795801B289D50E02460.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/PrototypingSprite.uasset'
+[2018.08.13-23.52.54:327][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/IdleAnimation59FB3EC84EB5AB36ABFA0BB16D1F95C8.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Animations/IdleAnimation.uasset'
+[2018.08.13-23.52.54:403][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/RunningAnimation4019B3B7457F3AD57FF4D4A2FCD5BA3E.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Animations/RunningAnimation.uasset'
+[2018.08.13-23.52.54:479][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/IdleCycle173728904475B7D13CBCBDFBA6C156597.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Animations/IdleFrames/IdleCycle1.uasset'
+[2018.08.13-23.52.54:547][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/IdleCycle2B3637A1D4A4D662341E1079BDF52725F.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Animations/IdleFrames/IdleCycle2.uasset'
+[2018.08.13-23.52.54:625][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/IdleCycle3879EC3FC475CCD4F44E1C5AE9DF9CB9B.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Animations/IdleFrames/IdleCycle3.uasset'
+[2018.08.13-23.52.54:697][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/IdleCycle4062559574F767C92F94D63A504815A5E.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Animations/IdleFrames/IdleCycle4.uasset'
+[2018.08.13-23.52.54:773][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/IdleCycle50F83A0BB48B00401B42039AA0FA93A02.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Animations/IdleFrames/IdleCycle5.uasset'
+[2018.08.13-23.52.54:858][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/IdleCycle6CE6342DE43D0B9BFE77C23B647D70F9F.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Animations/IdleFrames/IdleCycle6.uasset'
+[2018.08.13-23.52.55:130][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/IdleCycle72653ED8048728A0D0212978BC654491F.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Animations/IdleFrames/IdleCycle7.uasset'
+[2018.08.13-23.52.55:214][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/IdleCycle8FBBA8F0C45EB78F3247ECB9109CAE29B.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Animations/IdleFrames/IdleCycle8.uasset'
+[2018.08.13-23.52.55:283][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/RunCycle_16DEF010C4805C1548642D29116996037.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Animations/RunFrames/RunCycle_1.uasset'
+[2018.08.13-23.52.55:364][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/RunCycle_10D9FB2D474F9AC8001172D6815B9A0387.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Animations/RunFrames/RunCycle_10.uasset'
+[2018.08.13-23.52.55:437][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/RunCycle_1128BCB1BB4538D4E0521F7CA3C1B2F078.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Animations/RunFrames/RunCycle_11.uasset'
+[2018.08.13-23.52.55:505][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/RunCycle_128CC58A174D7FA33319EF7A88994F95C3.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Animations/RunFrames/RunCycle_12.uasset'
+[2018.08.13-23.52.55:576][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/RunCycle_139CEE8E604BA61521EFBC84B51B6C8E65.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Animations/RunFrames/RunCycle_13.uasset'
+[2018.08.13-23.52.55:642][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/RunCycle_145992F8164FBF059F53DC348DB71F30D8.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Animations/RunFrames/RunCycle_14.uasset'
+[2018.08.13-23.52.55:710][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/RunCycle_15695A13384228615258F4A993610AF152.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Animations/RunFrames/RunCycle_15.uasset'
+[2018.08.13-23.52.55:782][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/RunCycle_166E76CB1C4BAB76F611E3319CB74F2E66.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Animations/RunFrames/RunCycle_16.uasset'
+[2018.08.13-23.52.55:852][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/RunCycle_2FB2703E743E62D9B6A5070AFEB5CAD25.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Animations/RunFrames/RunCycle_2.uasset'
+[2018.08.13-23.52.55:925][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/RunCycle_3E8A633E9465B57775183F888FDB729BF.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Animations/RunFrames/RunCycle_3.uasset'
+[2018.08.13-23.52.55:993][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/RunCycle_47E1CD79647A44CA6603AB5A2DC9F932D.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Animations/RunFrames/RunCycle_4.uasset'
+[2018.08.13-23.52.56:063][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/RunCycle_572B9BF08469E08CFF640C8B8773DDCC1.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Animations/RunFrames/RunCycle_5.uasset'
+[2018.08.13-23.52.56:131][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/RunCycle_6C56733D744D3DB7751A204B14CC3D3DE.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Animations/RunFrames/RunCycle_6.uasset'
+[2018.08.13-23.52.56:208][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/RunCycle_71CFE608049844DA159A8BFB769C1E0D4.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Animations/RunFrames/RunCycle_7.uasset'
+[2018.08.13-23.52.56:283][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/RunCycle_8CEB48F624486B290D46F0388DA26768A.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Animations/RunFrames/RunCycle_8.uasset'
+[2018.08.13-23.52.56:363][677]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/RunCycle_9665E905B42C465422E4604A706DB8B44.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor2/Animations/RunFrames/RunCycle_9.uasset'
+[2018.08.13-23.53.33:771][607]LogBlueprint: Warning: [Compiler 2DSideScrollerCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.08.13-23.53.33:780][607]LogBlueprint: Warning: [Compiler 2DSideScrollerCharacter] [1332.21] Compile of 2DSideScrollerCharacter successful, but with 1 Warning(s) [in 21 ms] (/Game/Actors/TestingActor1/2DSideScrollerCharacter.2DSideScrollerCharacter)
+[2018.08.13-23.53.47:131][607]LogSlate: Window 'Replace References?' being destroyed
+[2018.08.13-23.53.47:140][607]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.13-23.53.56:382][607]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-23.53.56:589][607]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/2DSideScrollerCharacterEC13C1D3462A132151EB54BEDB6BB55D.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor1/2DSideScrollerCharacter.uasset'
+[2018.08.13-23.54.26:874][527]LogMetaData: Removing '/Game/Actors/SuperClass/CharacterSuperClass.CharacterSuperClass_C' ref from Metadata '/Game/Actors/CharacterSuperClass.PackageMetaData'
+[2018.08.13-23.54.26:874][527]LogMetaData: Removing '/Game/Actors/SuperClass/CharacterSuperClass.CharacterSuperClass:2dAnimationStateMachine.K2Node_FunctionEntry_0' ref from Metadata '/Game/Actors/CharacterSuperClass.PackageMetaData'
+[2018.08.13-23.54.26:874][527]LogMetaData: Removing '/Game/Actors/SuperClass/CharacterSuperClass.SKEL_CharacterSuperClass_C' ref from Metadata '/Game/Actors/CharacterSuperClass.PackageMetaData'
+[2018.08.13-23.54.26:874][527]LogMetaData: Removing '/Game/Actors/SuperClass/CharacterSuperClass.SKEL_CharacterSuperClass_C:ReceiveBeginPlay' ref from Metadata '/Game/Actors/CharacterSuperClass.PackageMetaData'
+[2018.08.13-23.54.26:874][527]LogMetaData: Removing '/Game/Actors/SuperClass/CharacterSuperClass.SKEL_CharacterSuperClass_C:ReceiveTick' ref from Metadata '/Game/Actors/CharacterSuperClass.PackageMetaData'
+[2018.08.13-23.54.26:874][527]LogMetaData: Removing '/Game/Actors/SuperClass/CharacterSuperClass.SKEL_CharacterSuperClass_C:AttackTransitionSets' ref from Metadata '/Game/Actors/CharacterSuperClass.PackageMetaData'
+[2018.08.13-23.54.26:874][527]LogMetaData: Removing '/Game/Actors/SuperClass/CharacterSuperClass.SKEL_CharacterSuperClass_C:bisMovingRight' ref from Metadata '/Game/Actors/CharacterSuperClass.PackageMetaData'
+[2018.08.13-23.54.26:874][527]LogMetaData: Removing '/Game/Actors/SuperClass/CharacterSuperClass.SKEL_CharacterSuperClass_C:CameraBoom' ref from Metadata '/Game/Actors/CharacterSuperClass.PackageMetaData'
+[2018.08.13-23.54.26:874][527]LogMetaData: Removing '/Game/Actors/SuperClass/CharacterSuperClass.SKEL_CharacterSuperClass_C:SideViewCameraComponent' ref from Metadata '/Game/Actors/CharacterSuperClass.PackageMetaData'
+[2018.08.13-23.54.26:874][527]LogMetaData: Removing '/Game/Actors/SuperClass/CharacterSuperClass.SKEL_CharacterSuperClass_C:UserConstructionScript' ref from Metadata '/Game/Actors/CharacterSuperClass.PackageMetaData'
+[2018.08.13-23.54.26:874][527]LogMetaData: Removing '/Game/Actors/SuperClass/CharacterSuperClass.CharacterSuperClass_C:AttackTransitionSets' ref from Metadata '/Game/Actors/CharacterSuperClass.PackageMetaData'
+[2018.08.13-23.54.26:874][527]LogMetaData: Removing '/Game/Actors/SuperClass/CharacterSuperClass.CharacterSuperClass_C:bisMovingRight' ref from Metadata '/Game/Actors/CharacterSuperClass.PackageMetaData'
+[2018.08.13-23.54.26:874][527]LogMetaData: Removing '/Game/Actors/SuperClass/CharacterSuperClass.CharacterSuperClass_C:CameraBoom' ref from Metadata '/Game/Actors/CharacterSuperClass.PackageMetaData'
+[2018.08.13-23.54.26:874][527]LogMetaData: Removing '/Game/Actors/SuperClass/CharacterSuperClass.CharacterSuperClass_C:SideViewCameraComponent' ref from Metadata '/Game/Actors/CharacterSuperClass.PackageMetaData'
+[2018.08.13-23.54.26:874][527]LogMetaData: Removing '/Game/Actors/SuperClass/CharacterSuperClass.CharacterSuperClass_C:ReceiveTick' ref from Metadata '/Game/Actors/CharacterSuperClass.PackageMetaData'
+[2018.08.13-23.54.26:874][527]LogMetaData: Removing '/Game/Actors/SuperClass/CharacterSuperClass.CharacterSuperClass_C:ReceiveBeginPlay' ref from Metadata '/Game/Actors/CharacterSuperClass.PackageMetaData'
+[2018.08.13-23.54.26:874][527]LogMetaData: Removing '/Game/Actors/SuperClass/CharacterSuperClass.CharacterSuperClass_C:UserConstructionScript' ref from Metadata '/Game/Actors/CharacterSuperClass.PackageMetaData'
+[2018.08.13-23.54.27:061][527]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/CharacterSuperClass78D05913413566D7767877B8A407AC05.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/SuperClass/CharacterSuperClass.uasset'
+[2018.08.13-23.54.27:659][527]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/LobbyGameModeC73F2D7449CEC9C8A0F8C7B8BD5F04F6.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/GameStates/Lobby/LobbyGameMode.uasset'
+[2018.08.13-23.54.27:701][527]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/2DSideScrollerCharacterC0F451824525625097973D8C5E83452B.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor1/2DSideScrollerCharacter.uasset'
+[2018.08.13-23.55.09:282][931]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.13-23.55.14:860][108]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.13-23.55.52:911][301]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.13-23.56.51:617][721]LogSlate: Window 'Replace References?' being destroyed
+[2018.08.13-23.56.51:628][721]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.13-23.56.54:163][721]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-23.56.54:368][721]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/CharacterSuperClassD457B7B144FBCACE054078BB60BB8E27.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/SuperClass/CharacterSuperClass.uasset'
+[2018.08.13-23.56.54:450][721]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/RunningAnimation93A5D64B45A9BB2502ADBD8CD93F8D81.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor1/Animations/RunningAnimation.uasset'
+[2018.08.13-23.57.05:056][941]LogSlate: Window 'Replace References?' being destroyed
+[2018.08.13-23.57.05:069][941]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.13-23.57.07:936][941]LogSlate: Window 'Save Content' being destroyed
+[2018.08.13-23.57.08:104][941]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/CharacterSuperClass2AFF253245DBEC53EC74A989041CFBC0.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/SuperClass/CharacterSuperClass.uasset'
+[2018.08.13-23.57.08:175][941]LogSavePackage: Moving '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Saved/IdleAnimationADB3DAE445F0DBF62F1D6B9DC79AED4E.tmp' to '../../../../../../Users/brixo/OneDrive/Documents/GitHub/Heart-Felt/OurProject/Content/Actors/TestingActor1/Animations/IdleAnimation.uasset'
+[2018.08.13-23.57.28:625][506]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.13-23.59.49:296][  1]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.13-23.59.53:370][108]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.13-23.59.55:886][108]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.410 s
+[2018.08.13-23.59.55:886][108]LogOutputDevice: Error: === Handled ensure: ===
+[2018.08.13-23.59.55:886][108]LogOutputDevice: Error: 
+[2018.08.13-23.59.55:886][108]LogOutputDevice: Error: Ensure condition failed: Found [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 185]
+[2018.08.13-23.59.55:886][108]LogOutputDevice: Error: Cannot remove redirection from /Game/Actors/TestingActor1/Animations/IdleAnimation.IdleAnimation, it was not registered
+[2018.08.13-23.59.55:886][108]LogOutputDevice: Error: Stack: 
+[2018.08.13-23.59.55:886][108]LogOutputDevice: Error: [Callstack] 0x00007ffa0afc7136 UE4Editor-Core.dll!UnknownFunction []
+[2018.08.13-23.59.55:886][108]LogOutputDevice: Error: [Callstack] 0x00007ffa0ad00c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.08.13-23.59.55:886][108]LogOutputDevice: Error: [Callstack] 0x00007ffa0ad1b346 UE4Editor-Core.dll!UnknownFunction []
+[2018.08.13-23.59.55:886][108]LogOutputDevice: Error: [Callstack] 0x00007ffa1d4feeb2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.08.13-23.59.55:886][108]LogOutputDevice: Error: [Callstack] 0x00007ffa23ed2c98 UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2018.08.13-23.59.55:886][108]LogOutputDevice: Error: [Callstack] 0x00007ffa06e14e94 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.13-23.59.55:886][108]LogOutputDevice: Error: [Callstack] 0x00007ffa06e14995 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.13-23.59.55:886][108]LogOutputDevice: Error: [Callstack] 0x00007ffa06560dc6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.13-23.59.55:886][108]LogOutputDevice: Error: [Callstack] 0x00007ffa068016c0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.13-23.59.55:886][108]LogOutputDevice: Error: [Callstack] 0x00007ffa0680ccdf UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.13-23.59.55:886][108]LogOutputDevice: Error: [Callstack] 0x00007ffa1b079c3b UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.13-23.59.55:886][108]LogOutputDevice: Error: [Callstack] 0x00007ffa1ae694c5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.13-23.59.55:886][108]LogOutputDevice: Error: [Callstack] 0x00007ffa1af01db2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.13-23.59.55:886][108]LogOutputDevice: Error: [Callstack] 0x00007ffa1aee7c7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.13-23.59.55:886][108]LogOutputDevice: Error: [Callstack] 0x00007ffa1aedb25c UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.13-23.59.55:886][108]LogOutputDevice: Error: [Callstack] 0x00007ffa2a98d1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.13-23.59.55:886][108]LogOutputDevice: Error: [Callstack] 0x00007ffa2a980270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.13-23.59.55:886][108]LogOutputDevice: Error: [Callstack] 0x00007ffa2a98f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ffa2a97c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ffa63b56cc1 USER32.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ffa63b56693 USER32.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ffa2a9905a9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ffa1af0f2b2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ffa1ae977c7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ffa068b10b6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ffa06e13f80 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ff9f6cedc8f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ff9f6cf8382 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ff9f6cf35fa UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ff9f6d50103 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ff9f6cf461f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ffa1b079c3b UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ffa1ae694c5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ffa1af01db2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ffa1aee7c7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ffa1aedb25c UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ffa2a98d1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ffa2a980270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ffa2a98f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ffa2a97c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ffa63b56cc1 USER32.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ffa63b56693 USER32.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ffa2a990646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ff6fc5e54e5 UE4Editor.exe!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ff6fc5f5b3c UE4Editor.exe!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ff6fc5f5bba UE4Editor.exe!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ff6fc603dac UE4Editor.exe!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ff6fc605aaa UE4Editor.exe!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ffa61593034 KERNEL32.DLL!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: [Callstack] 0x00007ffa63d71431 ntdll.dll!UnknownFunction []
+[2018.08.13-23.59.55:887][108]LogOutputDevice: Error: 
+[2018.08.13-23.59.55:898][108]LogStats:                SubmitErrorReport -  0.006 s
