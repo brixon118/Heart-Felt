@@ -1428,6 +1428,7 @@ Windows.Input:/Script/Engine.InputSettings:bDefaultViewportMouseLock:0=False
 Windows.Input:/Script/Engine.InputSettings:bUseAutocorrect:0=False
 Windows.Input:/Script/Engine.InputSettings:DefaultViewportMouseCaptureMode:0=CapturePermanently_IncludingInitialMouseDown
 Windows.Input:/Script/Engine.InputSettings:DefaultViewportMouseLockMode:0=LockOnCapture
+Windows.Input:/Script/Engine.InputSettings:ActionMappings:0=(ActionName="Exit",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Escape)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:0=(AxisName="MoveRight",Scale=1.000000,Key=D)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:1=(AxisName="MoveRight",Scale=-1.000000,Key=A)
 Windows.Input:/Script/Engine.InputSettings:ConsoleKey:0=None
@@ -1726,6 +1727,7 @@ Windows.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:0=(Prim
 Windows.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:1=(PrimaryAssetType="PrimaryAssetLabel",AssetBaseClass=/Script/Engine.PrimaryAssetLabel,bHasBlueprintClasses=False,bIsEditorOnly=True,Directories=((Path="/Game")))
 Windows.Game:Staging:RemapDirectories:0=(From="Engine/Plugins/Lumin", To="Engine/Plugins/MagicLeap")
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:UsingXGE:0=False
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:bExpandCustomClassPickerClassList:0=True
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCategories:0=(Name="Matinee")
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCategories:1=(Name="CurveEditor")
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:0=(Parent="Matinee", CommandName="Matinee_PlayForward", Description="Matinee_PlayForward_Desc", ExecCommand="Matinee Play")

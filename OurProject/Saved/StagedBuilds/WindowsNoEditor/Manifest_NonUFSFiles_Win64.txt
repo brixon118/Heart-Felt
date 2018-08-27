@@ -1,4 +1,4 @@
-OurProject/Binaries/Win64/OurProject.exe	2018-08-21T04:34:47.156Z
+OurProject/Binaries/Win64/OurProject.exe	2018-08-27T04:29:09.362Z
 Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2018-07-29T23:57:46.151Z
 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2018-07-29T23:38:11.461Z
 Engine/Binaries/ThirdParty/Steamworks/Steamv139/Win64/steam_api64.dll	2018-07-29T23:39:28.730Z
@@ -18,4 +18,4 @@ Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_0_11/Win64/openvr_api.dll	2018-07-29T
 Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2018-07-29T23:38:11.674Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2018-07-29T23:39:41.420Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2018-07-29T23:39:41.455Z
-OurProject.exe	2018-08-21T04:35:46.046Z
+OurProject.exe	2018-08-27T04:29:52.915Z
